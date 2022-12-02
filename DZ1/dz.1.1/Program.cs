@@ -18,9 +18,9 @@ else
 {
     if (a == b)
         {
-       Console.WriteLine($"Введенные числа равны"); 
+        Console.WriteLine($"Введенные числа равны"); 
         } 
-        else
+    else
         {
         Console.WriteLine($"Большее число: {b}, Меньшее число: {a} ");
         }   
